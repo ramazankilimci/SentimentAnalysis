@@ -12,7 +12,7 @@ pip install matplotlib.pyplot
 pip install numpy
 pip install scikit-learn
 ```
-Also you need to comment out nltk.download() row in code for the first run.
+Also you need to include nltk.download() row in code for the first run in order to install nltk packages.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
